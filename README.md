@@ -8,3 +8,16 @@
 
 📍 Let's connect and collaborate on intuitive user experiences!
 
+### 📚 Currently Learning
+- UI/UX Design Principles
+- Responsive Web Design
+- JavaScript & DOM Manipulation
+- React (next up!)
+
+### 🎯 Goals for 2025
+- ✅ Build 3+ portfolio-level web apps
+- ✅ Contribute to open-source front-end projects
+- ⏳ Publish a complete UI/UX case study
+
+### 💬 Let's Talk About
+User flows, front-end frameworks, modern UI trends, and design systems.
