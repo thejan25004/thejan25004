@@ -1,28 +1,26 @@
 <h1 align="center">Hey there! I'm Chamod Thejan 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Front-End+Web+Developer;Design+%2B+Code+is+my+thing!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af7f9311b6dbca9e6147da631.gif" width="450" alt="Front-End Developer Animation" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/16530020/media/f3a5141d0e5b28f863b85b8b32bff1b8.gif" width="400" alt="UI UX front-end coding boy animation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate **UI/UX Designer** and **Front-End Developer** from 🌍 Sri Lanka.  
-I love turning creative ideas into beautiful, user-friendly web interfaces.
+I'm a passionate **UI/UX designer** and **front-end developer** based in 🌍 Sri Lanka. I love crafting beautiful, user-friendly digital experiences from wireframes to fully responsive interfaces.
 
-- 🔭 Currently working on: My personal portfolio & React projects  
-- 🌱 Learning: React.js, Tailwind CSS, Figma, UX best practices  
-- 🧰 Tools: HTML5, CSS3, JavaScript, Java, Git, Figma, VS Code  
-- 💬 Ask me anything about front-end development or UI/UX!
+- 🔭 Currently building: My personal portfolio & React projects  
+- 🌱 Currently learning: JavaScript ES6+, React.js, Figma, Tailwind CSS  
+- 🛠️ Tools I use: HTML5, CSS3, JavaScript, Java, Git, Figma, VS Code  
+- 💬 Ask me about anything related to front-end design/dev!
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,react,figma,git,github,vscode,bootstrap,tailwind" />
@@ -30,34 +28,34 @@ I love turning creative ideas into beautiful, user-friendly web interfaces.
 
 ---
 
-### 📚 Currently Learning
+### 🎯 What I’m Learning
 
-| 📌 Skill         | 🔍 Focus                        | 📈 Status       |
-|------------------|-------------------------------|-----------------|
-| JavaScript (ES6+) | DOM, Fetch API, ES6 Features   | 🟢 In Progress   |
-| React.js          | Components, Hooks, SPAs        | 🟡 Learning      |
-| Tailwind CSS      | Utility Classes, Responsive UI | 🟢 In Progress   |
-| Figma             | Wireframes, Prototypes         | 🟢 Practicing    |
-
----
-
-### 💼 Projects
-
-🔹 [**Layered-Architecture-Project**](https://github.com/thejan25004/Layered-Architecture-Project)  
-Java-based architecture with clean layers and logic.
-
-🔹 [**Seoul Car Rental System**](https://github.com/thejan25004/Seoul_car_Rental)  
-Java project simulating a car rental system.
-
-🔹 [**My ProtoFolio**](https://github.com/thejan25004/My-ProtoFolio)  
-A personal portfolio built with HTML/CSS to showcase early UI/UX work.
-
-🔹 [**GDSE69**](https://github.com/thejan25004/GDSE69)  
-Practice repo for Git version control and Java fundamentals.
+| Skill           | Status         | Focus Area                       |
+|-----------------|----------------|----------------------------------|
+| JavaScript ES6+ | 🟢 In Progress | DOM Manipulation, Async/Await    |
+| React           | 🟡 Learning    | Components, Hooks, SPA Design    |
+| Tailwind CSS    | 🟢 In Progress | Responsive Design, Utilities     |
+| Figma           | 🟢 Practicing  | UI Kits, Wireframing, Prototypes |
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+🔹 **[Layered-Architecture-Project](https://github.com/thejan25004/Layered-Architecture-Project)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧱 Java-based project demonstrating layered architecture best practices.
+
+🔹 **[Seoul Car Rental System](https://github.com/thejan25004/Seoul_car_Rental)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 Java project for a rental system with class-based structure.
+
+🔹 **[My ProtoFolio](https://github.com/thejan25004/My-ProtoFolio)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 HTML/CSS-based personal portfolio project showcasing early UI work.
+
+🔹 **[GDSE69](https://github.com/thejan25004/GDSE69)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 Starter project for GitHub version control practice.
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thejan25004&show_icons=true&theme=radical&count_private=true&hide_border=true" width="45%"/>
