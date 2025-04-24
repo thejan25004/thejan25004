@@ -71,7 +71,7 @@ I'm a passionate **UI/UX designer** and **front-end developer** based in 🌍 Sr
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:thejanchamod9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
