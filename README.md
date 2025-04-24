@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Coding boy animation"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/16530020/media/f3a5141d0e5b28f863b85b8b32bff1b8.gif" width="400" alt="UI UX front-end coding boy animation" />
 </p>
 
 ---
