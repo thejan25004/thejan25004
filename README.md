@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Design to code animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Coding boy animation"/>
 </p>
 
 ---
@@ -13,9 +13,9 @@
 
 I'm a passionate **UI/UX designer** and **front-end developer** based in 🌍 Sri Lanka. I love crafting beautiful, user-friendly digital experiences from wireframes to fully responsive interfaces.
 
-- 🔭 Currently building: My personal portfolio & React projects
-- 🌱 Currently learning: JavaScript ES6+, React.js, Figma, Tailwind CSS
-- 🛠️ Tools I use: HTML5, CSS3, JavaScript, Java, Git, Figma, VS Code
+- 🔭 Currently building: My personal portfolio & React projects  
+- 🌱 Currently learning: JavaScript ES6+, React.js, Figma, Tailwind CSS  
+- 🛠️ Tools I use: HTML5, CSS3, JavaScript, Java, Git, Figma, VS Code  
 - 💬 Ask me about anything related to front-end design/dev!
 
 ---
@@ -71,7 +71,7 @@ I'm a passionate **UI/UX designer** and **front-end developer** based in 🌍 Sr
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:thejanchamod9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
