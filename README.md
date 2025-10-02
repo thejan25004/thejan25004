@@ -1,6 +1,7 @@
 <h1 align="center">Hey there! I'm Chamod Thejan 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Front-End+Web+Developer;Design+%2B+Code+is+my+thing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Engineer;Passionate+about+Design+%26+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,53 +11,47 @@
 ---
 
 ### 👨‍💻 About Me
+I am a passionate **Fullstack Developer** and **UI/UX Engineer** based in 🌍 Sri Lanka.  
+I specialize in building responsive, user-friendly web applications and scalable backend systems.  
+I enjoy transforming ideas into interactive products, from wireframes to full-stack solutions.
 
-I'm a passionate **UI/UX designer** and **front-end developer** based in 🌍 Sri Lanka. I love crafting beautiful, user-friendly digital experiences from wireframes to fully responsive interfaces.
-
-- 🔭 Currently building: My personal portfolio & React projects  
-- 🌱 Currently learning: JavaScript ES6+, React.js, Figma, Tailwind CSS  
-- 🛠️ Tools I use: HTML5, CSS3, JavaScript, Java, Git, Figma, VS Code  
-- 💬 Ask me about anything related to front-end design/dev!
+- 🔭 Currently building: **HybridHub Car Service Management System**  
+- 🌱 Currently learning: **Spring Boot Microservices, DevOps (CI/CD, Docker, AWS)**  
+- 🛠️ Tools I use: Java, Spring Boot, React, Node.js, MySQL, MongoDB, Tailwind CSS, Figma  
+- 💬 Ask me about: **Fullstack development, REST APIs, and UI/UX design**  
 
 ---
 
 ### 🚀 Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,figma,git,github,vscode,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,spring,html,css,bootstrap,tailwind,figma,nodejs,mysql,mongodb,git,github,docker,linux" />
 </p>
 
 ---
 
-### 🎯 What I’m Learning
+### 🎯 Featured Projects
 
-| Skill           | Status         | Focus Area                       |
-|-----------------|----------------|----------------------------------|
-| JavaScript ES6+ | 🟢 In Progress | DOM Manipulation, Async/Await    |
-| React           | 🟡 Learning    | Components, Hooks, SPA Design    |
-| Tailwind CSS    | 🟢 In Progress | Responsive Design, Utilities     |
-| Figma           | 🟢 Practicing  | UI Kits, Wireframing, Prototypes |
+🔹 **[HybridHub Car Service Management System](https://github.com/thejan25004)**  
+&nbsp;&nbsp;&nbsp;🚗 Full-featured service management system built with Spring Boot and React.  
 
----
+🔹 **[SuperDot Printers](https://github.com/thejan25004)**  
+&nbsp;&nbsp;&nbsp;🖨️ A bulk order printing system with Spring Boot backend.  
 
-### 📌 Featured Projects
+🔹 **[Library Club](https://github.com/thejan25004)**  
+&nbsp;&nbsp;&nbsp;📚 Fullstack library management app with React + TypeScript frontend & Node.js backend.  
 
-🔹 **[Layered-Architecture-Project](https://github.com/thejan25004/Layered-Architecture-Project)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧱 Java-based project demonstrating layered architecture best practices.
+🔹 **[Smart Parking Management](https://github.com/thejan25004)**  
+&nbsp;&nbsp;&nbsp;🅿️ Microservices-based parking management system (Spring Boot + Web frontend).  
 
-🔹 **[Seoul Car Rental System](https://github.com/thejan25004/Seoul_car_Rental)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 Java project for a rental system with class-based structure.
+🔹 **[Future Store Ecommerce](https://github.com/thejan25004)**  
+&nbsp;&nbsp;&nbsp;🛒 Java Servlet-based e-commerce platform with responsive UI.  
 
-🔹 **[My ProtoFolio](https://github.com/thejan25004/My-ProtoFolio)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 HTML/CSS-based personal portfolio project showcasing early UI work.
-
-🔹 **[GDSE69](https://github.com/thejan25004/GDSE69)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 Starter project for GitHub version control practice.
+🔹 **[Simple Travel Planner](https://github.com/thejan25004)**  
+&nbsp;&nbsp;&nbsp;🌍 User-friendly travel itinerary planner with modern frontend features.  
 
 ---
 
 ### 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thejan25004&show_icons=true&theme=radical&count_private=true&hide_border=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejan25004&theme=radical&hide_border=true" width="45%"/>
@@ -69,11 +64,11 @@ I'm a passionate **UI/UX designer** and **front-end developer** based in 🌍 Sr
 ---
 
 ### 🌐 Connect with Me
-
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:thejanchamod9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chamod-thejan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://my-port-folio-psi-blush.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Online-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@chamodthejan4692"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
