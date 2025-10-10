@@ -11,8 +11,8 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Fullstack Developer** and **UI/UX Engineer** based in 🌍 Sri Lanka.  
-I specialize in building responsive, user-friendly web applications and scalable backend systems.  
+I am a passionate **FrontEnd Developer** and **UI/UX Engineer** based in 🌍 Sri Lanka.  
+I specialize in building responsive, user-friendly web applications and scalable backend systems using Spring Boot & node.js .  
 I enjoy transforming ideas into interactive products, from wireframes to full-stack solutions.
 
 - 🔭 Currently building: **HybridHub Car Service Management System**  
