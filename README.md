@@ -22,6 +22,8 @@ I enjoy transforming ideas into interactive products, from wireframes to full-st
 
 ---
 
+YouTube Channel - https://www.youtube.com/@chamodthejan4692
+
 ### 🚀 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,spring,html,css,bootstrap,tailwind,figma,nodejs,mysql,mongodb,git,github,docker,linux" />
