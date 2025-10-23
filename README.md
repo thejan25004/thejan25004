@@ -18,7 +18,7 @@ I enjoy transforming ideas into interactive products, from wireframes to full-st
 - 🔭 Currently building: **HybridHub Car Service Management System**  
 - 🌱 Currently learning: **Spring Boot Microservices, DevOps (CI/CD, Docker, AWS)**  
 - 🛠️ Tools I use: Java, Spring Boot, React, Node.js, MySQL, MongoDB, Tailwind CSS, Figma  
-- 💬 Ask me about: **Fullstack development, REST APIs, and UI/UX design**  
+- 💬 Ask me about: **FrontEnd development, REST APIs, and UI/UX design**  
 
 ---
 
