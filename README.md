@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! I'm Chamod Thejan 👋</h1>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Engineer;Passionate+about+Design+%26+Code" alt="Typing SVG" />
-</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&height=80&lines=Frontend+Developer;UI%2FUX+Engineer;Passionate+about+Design+%26+Code" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Coding boy animation"/>
